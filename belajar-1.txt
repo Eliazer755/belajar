@@ -3,4 +3,5 @@ pembelajaran git
 - membuat repository
 - push
 - merge
+- clone
 - dll
