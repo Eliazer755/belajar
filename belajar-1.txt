@@ -1,0 +1,6 @@
+pembelajaran git
+- membuat account
+- membuat repository
+- push
+- merge
+- dll
